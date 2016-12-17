@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="eb922a37-05cb-4880-a452-2af2997b066c" name="OG-TelegramBot" url="http://165.132.140.240">
+        <fileTransfer host="165.132.140.240" port="22" rootFolder="/home/sparrow/git/OG-TelegramBot" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
