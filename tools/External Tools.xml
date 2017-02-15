@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="setup.py build" description="setup.py build" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$JDKPath$" />
+      <option name="PARAMETERS" value="setup.py build" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/../pyogame" />
+    </exec>
+  </tool>
+  <tool name="setup.py install" description="setup.py installild" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$JDKPath$" />
+      <option name="PARAMETERS" value="setup.py install" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/../pyogame" />
+    </exec>
+  </tool>
+</toolSet>
