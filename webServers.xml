@@ -17,6 +17,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="49fdb8af-301f-4268-af89-c976ce268240" name="jc01rho.com-TorrentDN" url="http://jc01rho.com">
+        <fileTransfer host="jc01rho.com" port="22" rootFolder="/home/jc01rho/git/torrentdn" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
