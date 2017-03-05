@@ -1,16 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="eb922a37-05cb-4880-a452-2af2997b066c" name="OG-TelegramBot" url="http://165.132.140.240">
-        <fileTransfer host="165.132.140.240" port="22" rootFolder="/home/sparrow/git/OG-TelegramBot" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="622b4225-c094-4d32-bed7-559b8c2f93f9" name="OG-iMineListGen" url="http://165.132.140.240">
-        <fileTransfer host="165.132.140.240" port="22" rootFolder="/home/sparrow/git/OG-iMineListGen" accessType="SFTP">
+      <webServer id="eb922a37-05cb-4880-a452-2af2997b066c" name="OG-TelegramBot" url="http://165.132.140.243">
+        <fileTransfer host="165.132.140.243" port="22" rootFolder="/home/sparrow/git/OG-TelegramBot" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
