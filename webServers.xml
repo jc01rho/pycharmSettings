@@ -9,14 +9,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="622b4225-c094-4d32-bed7-559b8c2f93f9" name="OG-iMineListGen" url="http://165.132.140.240">
-        <fileTransfer host="165.132.140.240" port="22" rootFolder="/home/sparrow/git/OG-iMineListGen" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="49fdb8af-301f-4268-af89-c976ce268240" name="jc01rho.com-TorrentDN" url="http://jc01rho.com">
         <fileTransfer host="jc01rho.com" port="22" rootFolder="/home/jc01rho/git/torrentdn" accessType="SFTP">
           <advancedOptions>
