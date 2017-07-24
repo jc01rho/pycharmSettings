@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="git pull" description="git pull" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="NONE">
+    <exec>
+      <option name="COMMAND" value="git" />
+      <option name="PARAMETERS" value="pull" />
+      <option name="WORKING_DIRECTORY" value="/home/sparrow/git/rosy_ogbot" />
+    </exec>
+  </tool>
+</toolSet>
