@@ -1,14 +1,17 @@
 <scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2016-12-16T17:14:02</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-16T17:15:12</property>
+    <property name="modified">2018-07-19T10:44:26</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="NanumGothicCoding" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
